@@ -36,4 +36,4 @@ Este proyecto es de libre distribución. ¡Siéntete libre de usar y mejorar el 
 
 ---
 
-**Código C++ hecho por: Nicolas Ceballos Brito (1089096352)**
+Código C++ hecho por: Nicolas Ceballos Brito
