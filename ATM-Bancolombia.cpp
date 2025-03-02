@@ -1,4 +1,4 @@
-//									Codigo C++ hecho por: Nicolas Ceballos Brito (1089096352)
+//									Codigo C++ hecho por: Nicolas Ceballos Brito
 
 
 
@@ -1757,4 +1757,4 @@ int main(){
 
 
 
-//									Codigo C++ hecho por: Nicolas Ceballos Brito (1089096352)
+//									Codigo C++ hecho por: Nicolas Ceballos Brito
